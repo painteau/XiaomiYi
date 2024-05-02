@@ -1,3 +1,4 @@
+# For Xiaomi Yi Action
 # Auto USB + 1080p60 + Wifi mod
 # author: Painteau
 
